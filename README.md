@@ -10,7 +10,7 @@ Feel free to create a pull request to contribute to any of my repositories. </p>
         <li> ❌ Write Blogs. </li>
         <li> ❌ Complete microsoft/Web-Dev-For-Beginners </li>
         <li> ❌ Expert on Codeforces. </li>
-        <li> ❌ Make my own manga list using Nodejs, Express, React,.. </li>
+        <li> ❌ Make my own manga list using MERN (MongoDB, Express, React, Node).</li>
         <li> Updating more... </li>
     </ul>
     <p> <strong> Streaks: </strong> </p>
