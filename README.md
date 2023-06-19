@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://hyuse202.github.io"> Halo (~˘▾˘)~ </a> </h2>
-<p align = "center" > Another highschooler inspired by <a href="https://github.com/geohot"> geohotz </a> and 
-    <a href="https://github.com/hoangvu12"> hoangvu12</a>.</p>
+<p align = "center" > Another highschooler inspired by <a href="https://github.com/geohot" target="_blank"> geohotz </a> and 
+    <a href="https://github.com/hoangvu12" target="_blank"> hoangvu12</a>.</p>
 
 <p align = "center" > Feel free to create a PR to contribute to any of my repo. </p>
 <h3 align="center">
