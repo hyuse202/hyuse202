@@ -5,7 +5,6 @@
 <p align = "center" > Feel free to create a PR to contribute to any of my repo. </p>
 <h3 align="center">
     <p> <strong> Languages: </strong> </p> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyuse202&theme=nightowl">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyuse202&theme=nightowl">
     <p> <strong> Stats: </strong> </p> 
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&preferLogin=false">    
