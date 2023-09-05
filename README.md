@@ -1,13 +1,10 @@
-<h1 align="center"> <a href="https://hyuse202.github.io"> Halo (~˘▾˘)~ </a> </h2>
-<p align = "center" > A highschooler inspired by <a href="https://github.com/geohot" target="_blank"> @geohotz</a>,
+<h1 > <a href="https://hyuse202.github.io"> Halo (~˘▾˘)~ </a> </h2>
+<p  > A highschooler inspired by <a href="https://github.com/geohot" target="_blank"> @geohotz</a>,
     <a href="https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp" target="_blank">@youngmetro </a> and
     <a href="https://twitch.tv/gmhikaru" target="_blank"> @gmhikaru</a>.</p>
 
-<p align = "center" > Feel free to create a PR to contribute to any of my repo. </p>
-<h3 align="center">
-    <p> <strong> Languages: </strong> </p> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyuse202&theme=nightowl">
-    <p> <strong> Stats: </strong> </p> 
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&preferLogin=false">    
-    <img  alt="hyuse202's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hyuse202?cardType=github&theme=nightowl&preferLogin=false" />       </a>
-</h3>
+<p > Feel free to create a PR to contribute to any of my repo. </p>
+
+![](https://raw.githubusercontent.com/hyuse202/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hyuse202/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![]() 
