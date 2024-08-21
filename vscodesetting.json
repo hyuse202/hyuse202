@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Kanagawa",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.menuBarVisibility": "hidden",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "editor.fontFamily": "JetBrainsMonoNL Nerd Font",
+    "editor.fontLigatures": false,
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.fontWeight": "bold",
+    "explorer.confirmDelete": false,
+    "editor.minimap.size": "fill",
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.activityBar.location": "hidden",
+    "emmet.showSuggestionsAsSnippets": true,
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}
